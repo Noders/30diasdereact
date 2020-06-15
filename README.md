@@ -39,7 +39,7 @@ Luego de avanzar un poco con la aplicacion, veremos en que temas enfocarnos (Y s
 
 #### Proximos 15 días
 
-¿Cómo crees que deberiamos seguir aprendiendo React?, crea un (issue aquí)[https://github.com/Noders/30diasdereact/issues/new] con tu idea y ayudanos a crear el contenido a seguir!
+¿Cómo crees que deberiamos seguir aprendiendo React?, crea un [aquí](https://github.com/Noders/30diasdereact/issues/new) con tu idea y ayudanos a crear el contenido a seguir!
 
 #### Gente que ha colaborado con este projecto
 
