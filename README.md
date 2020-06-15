@@ -1,19 +1,19 @@
 # 30 Dias De React (Challenge)
 
-## Por que?
+## ¿Por qué?:
 
 [@lcjury](https**://twitter.com/lcjury) queria aprender React, y luego de este tweet, nos motivamos junto a [@fforres](https**://twitter.com/fforres) a aprender! Así que durante los próximos estaremos haciendo livestreams del "30 dias de React Challenge" 😁
 
-## Horarios\*\*:
+## Horarios:
 
 Lunes, Martes, Miercoles y Viernes a las 20**:30 GMT-4 (Hora Chile)
 Y los domingos a las 15**:00 GMT-4 (Hora Chile)
 
-## Donde?
+## ¿Donde?:
 
 Por [https://noders.live]
 
-## Que aprenderemos?
+## ¿Que aprenderemos?:
 
 React!
 Pero mas concretamente, el siguiente temario
@@ -39,4 +39,9 @@ Luego de avanzar un poco con la aplicacion, veremos en que temas enfocarnos (Y s
 
 #### Proximos 15 días
 
-¿Cómo crees que deberiamos seguir aprendiendo React?, crea un (issue aquí)[] con tu idea y ayudanos a crear el contenido a seguir.
+¿Cómo crees que deberiamos seguir aprendiendo React?, crea un (issue aquí)[https://github.com/Noders/30diasdereact/issues/new] con tu idea y ayudanos a crear el contenido a seguir!
+
+#### Gente que ha colaborado con este projecto
+
+- [Luis Jury (@lcjury)](https**://twitter.com/lcjury)
+- [Felipe Torres (@fforres)](https**://twitter.com/fforres)
