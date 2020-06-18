@@ -45,3 +45,7 @@ Luego de avanzar un poco con la aplicacion, veremos en que temas enfocarnos (Y s
 
 - [Luis Jury (@lcjury)](https**://twitter.com/lcjury)
 - [Felipe Torres (@fforres)](https**://twitter.com/fforres)
+
+### FIGMA
+
+https://www.figma.com/file/WBSxDuSE8q56mgKYon7PxB/Chatapp?node-id=0%3A1
