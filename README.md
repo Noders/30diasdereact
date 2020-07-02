@@ -32,6 +32,7 @@ Luego de avanzar un poco con la aplicacion, veremos en que temas enfocarnos (Y s
 - **Unit Testing!**: Implementar React testing y crear los test para los componentes ya existentes
 - **Dia de DRY. Armemos nuestra Libreria de componen**: Crear un sistema de diseño propio y abstraer los "atomos" de la aplicación
 - **Visual regresion testing. (Storybook y chromatic)**:
+- **Prettier + Deuda Visual de Figma**: Instalar Figma, ver las diferencias entre linters y prettier y vamos a pagar la deuda técnica visual de los componentes
 - **Busqueda con APIs, datos asincronos, fetch y hooks**: Implementar fetching de data basado en el texto del input, y manejo de "loading" states.
 - **Tests version 2.0 (Arreglar tests que rompimos en el live previo)**: Arreglar los test que se rompieron haciendo mock de la API
 - **Autenticación con APIs!! :D**: Implementar autenticación contra una API real
