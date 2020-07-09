@@ -42,6 +42,10 @@ Pero mas concretamente, el siguiente temario:
 | 15 | **Tests version 2.0 (Arreglar tests que rompimos en el live previo)**: | [▶]() | Arreglar los test que se rompieron haciendo mock de la API |
 | 16 | **Autenticación con APIs!! :D**: | [▶]() | Implementar autenticación contra una API real |
 | 17 | **Deployeando a produccion!**: | [▶]() | Deployar la aplicación a Vercel |
+| 18 | **Redux parte 1**: | [▶]() | Vamos a dejar de pasar props por todos lados, y usaremos redux |
+| 19 | **Redux parte 2**: | [▶]() | Continuar con el trabajo redux... |
+| 20 | **Typescript!**: | [▶]() | Migrando nuestra aplicación a Typescript, because, ¿why not?. |
+| 21 | **Graphql y Apollo**: | [▶]() | Vamos a matar Redux para utilizar Apollo como storage central de data y vamos a usar GraphQl para obtener nuestra data |
 
 
 
