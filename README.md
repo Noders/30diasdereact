@@ -45,6 +45,7 @@ Pero mas concretamente, el siguiente temario:
 | 18 | **Redux parte 1**: | [▶]() | Vamos a dejar de pasar props por todos lados, y usaremos redux |
 | 19 | **Redux parte 2**: | [▶]() | Continuar con el trabajo redux... |
 | 20 | **Typescript!**: | [▶]() | Migrando nuestra aplicación a Typescript, because, ¿why not?. |
+| 23 | **GraphQL y Typescript**: | [▶]() | Vamos a construir una API en graphQL con typescript y deployarla a vercel para obtener toda nuetra data desde un solo lugar |
 | 21 | **Graphql y Apollo**: | [▶]() | Vamos a matar Redux para utilizar Apollo como storage central de data y vamos a usar GraphQl para obtener nuestra data |
 
 
